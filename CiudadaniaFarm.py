@@ -12,8 +12,8 @@ browserDriver.get("https://prenotami.esteri.it/Home?ReturnUrl=%2fServices")
 
 # Iniciar sesión
 
-email = "locatelliflor@gmail.com"
-contraseña = "Flm12345"
+email = ""
+contraseña = ""
 
 input_email = '//*[@id="login-email"]'
 input_contraseña = '//*[@id="login-password"]'
